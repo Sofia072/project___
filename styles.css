@@ -1,0 +1,27 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.bg-light-purple {
+    background-color: #ba68c8 !important;
+}
+
+.text-light-purple {
+    color: #ba68c8 !important;
+}
+
+#product-list .product, #anime-list .card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 10px;
+}
+
+.product img, .card img {
+    border-radius: 5px;
+}
+.header-bg {
+    background: url('https://mir-s3-cdn-cf.behance.net/project_modules/fs/04d7d2105464265.617b69951ef14.png') no-repeat center center;
+    background-size: cover;
+}

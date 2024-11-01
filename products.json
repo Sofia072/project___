@@ -1,20 +1,56 @@
 [
+    {
+        "title": "Friren figure",
+        "price": 299,
+        "image": "https://ireland.apollo.olxcdn.com/v1/files/j0yenx1ygf4r3-UA/image;s=1000x700",
+        "description": "Орігіналька фігурка Фрірен з Фрірен після кінця пригоди. Розміром 22см на 15 см."
+    },
+    {
+        "title": "Memoirs of Vanitas: keychain with Noah",
+        "price": 39,
+        "image": "https://murasaki.store/image/cache/catalog/Amaket/key/Vanitas%20no%20Carte/key99-7-742x1000.jpg",
+        "description": "Значок з Ноєм з Мемуари Ванітаса. Розміром 5 х 5 см."
+    },
+    {
+        "title": "Uraraka cosplay wig",
+        "price": 699,
+        "image": "https://hokagestore.com/wp-content/uploads/2019/03/44523-a3c6b1.jpeg?1000",
+        "description": "Перука Урараки з Моєї геройської академії. Вже переведена до ладу. "
+    }
+    {
+        "title": "Dokimakura Pillow ",
+        "price": 299,
+        "image": "https://www.instaphoto.ru/imggoods/5095-1.jpg",
+        "description": "подушка обнімашка з професором Моріарті з аніме патріот Мориарти"
+    },
+    {
+        "title": "Cosplay on Dazai Osamu",
+        "price": 1299,
+        "image": "https://m.media-amazon.com/images/I/61FqE8M47TL._AC_UY1000_.jpg",
+        "description": "косплей на персонажа бсд, Дадзай Осаму"
+    },
   {
-    "title": "Friren figure",
-    "price": 499,
-    "image": "https://ireland.apollo.olxcdn.com/v1/files/j0yenx1ygf4r3-UA/image;s=1000x700",
-    "description": "Потужний смартфон від Apple з передовим процесором, великим екраном і вражаючою камерою. iPhone 11 - це комбінація стильного дизайну, високої продуктивності та передових технологій, що забезпечує незрівнянний досвід використання смартфона."
-  },
-  {
-    "title": "Memoirs of Vanitas: keychain with Noah",
-    "price": 59,
-    "image": "https://murasaki.store/image/cache/catalog/Amaket/key/Vanitas%20no%20Carte/key99-7-742x1000.jpg",
-    "description": "Інноваційний смартфон від Google з передовими функціями штучного інтелекту і потужною камерою. Google Pixel 4 вражає не лише своїм дизайном, але й вмінням автоматично адаптуватися до користувача та надавати персоналізований досвід використання смартфона."
-  },
-  {
-    "title": "Uraraka cosplay wig",
-    "price": 999,
-    "image": "https://hokagestore.com/wp-content/uploads/2019/03/44523-a3c6b1.jpeg?1000",
-    "description": "Великорозмірна версія нового флагмана компанії, представленого на початку 2021 року. Він додав в елегантності завдяки оновленому дизайну, а також свіжим відтінкам кольорів корпусу. Samsung Galaxy S21 Ultra оснащується 6,8-дюймовим Dynamic AMOLED 2X дисплеєм, із співвідношенням сторін 20: 9 і роздільною здатністю 3200х1440 точок. "
-  }
-]
+        "title": "Badge with Eren",
+        "price": 39,
+        "image": "https://statics.ruadoll.com/image/cache/2024/0823/0/dbd38529-4918-a367-03b0-018f2e321213-1000x1000.jpg",
+        "description": "значок на рюдзак з Ереном Єгером з атаки титанів"
+    },
+     {
+        "title": "T-shirt Hatsune Miku",
+        "price": 199,
+        "image": "https://m.media-amazon.com/images/I/514LIA-ztFL._AC_UY580_.jpg",
+        "description": "футболка з вокплоїдом Хацуне Міку"
+    },
+
+    {
+        "title": "Tanjiro Kamado figurine",
+        "price": 299,
+        "image": "https://acecards.com/cdn/shop/files/Aniplex-Demon-Slayer-Kimetsu-no-Yaiba-Figurine-Tanjiro-Kamado-Buzzmod-4_1200x.jpg?v=1690322395",
+        "description": "фігурка Танджиро Камадо, розміром 25 х 14 см " 
+    },
+
+    {
+        "title": "Talentless Nana Stickers",
+        "price": 19,
+        "image": "https://ih1.redbubble.net/image.1729693435.9159/st,small,507x507-pad,600x600,f8f8f8.u2.jpg",
+        "description": "Наліпки з Аніме Бездарна Нана." 
